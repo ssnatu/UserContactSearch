@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    color: #000;
+}
+
+.panel {
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	width: 50%;
+}
+
+.jumbotron {
+	background-color: #ffff80;
+}
+
+.row {
+	width: 100%;
+}
+
+.table {
+	width: 100%;
+}
+
+input[type="text"] {
+	width: 60%;
+}
+
+input[type="submit"] {
+	width: 20%;
+}
