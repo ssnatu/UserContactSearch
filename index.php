@@ -3,12 +3,15 @@
 <head>
 	<title>Search Contact Details</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
 	<div class="container">
 		<div class="panel panel-default">
-			<div class="jumbotron">
+			 <div class="panel-heading">
+	      		<h2>Search and Display Contact of the User</h2>
+	    	</div>
+			<div class="panel-body">
 			    <form action="search_contact.php" method="post" id="search_contact">
 				    <div class="row">
 				    	<div class="col-xs-12 col-sm-12 col-lg-12">
